@@ -1,5 +1,6 @@
 # The-react-course: [React - The Complete Guide (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?src=sac&kw=React)
 
+   *Explore detailed documentation inside*
 
    * [Project Management Application](https://github.com/usamaElsharkawi/Project-Managment-Application)
    * [Place Picker Application (React Side Effects)](https://github.com/usamaElsharkawi/Place-Picker-Application)
