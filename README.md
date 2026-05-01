@@ -17,5 +17,6 @@
    * [React Router Practice Project](https://github.com/usamaElsharkawi/advanced-react-router-practice-project)
    * [React Apps Authentication Practice Project](https://github.com/usamaElsharkawi/react-apps-authentication-practice-project)
    * [React Query Practice Project](https://github.com/usamaElsharkawi/react-query-practice-project)
+   * [NextLevel food (NextJs practice project)](https://github.com/usamaElsharkawi/nextLevel-food-application)
 
 
